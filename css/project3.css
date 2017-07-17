@@ -21,8 +21,8 @@ background: white;
     position: absolute;
     top: 50%;
     left: 50%;
-    width: 500px;
-    height: 280px;
+    width: 400px;
+    height: 220px;
     transform: translate(-50%,-50%);
 }
 .form h1{
